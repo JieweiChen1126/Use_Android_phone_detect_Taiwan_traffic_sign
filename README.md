@@ -55,6 +55,6 @@ Image(filename='runs/detect/predict/test.jpg')
 ---
 
 ## 📱 在 Android Studio 使用 YOLOv8 模型
-本專案的 Android App 是參考[AarohiSingla/Object-Detection-Android-App](https://github.com/AarohiSingla/Object-Detection-Android-App) 並加以修改。
+本專案的 Android App 是參考[AarohiSingla/Object-Detection-Android-App](https://github.com/AarohiSingla/Object-Detection-Android-App) 
 並加以修改，使其能夠讀取 YOLOv8 TFLite 模型 進行即時交通號誌辨識。
 使用方法參考上一行連結之Github即可。
